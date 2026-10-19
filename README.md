@@ -42,7 +42,7 @@ const abuBakr = {
 ---
 
 <details open>
-<summary><h2>🎬 Creative Workspace & Motion Toolkit</h2></summary>
+<summary><h2>🎬 Creative Workspace &amp; Motion Toolkit</h2></summary>
 <br/>
 
 <div align="center">
@@ -145,24 +145,49 @@ const abuBakr = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/abubakr-bd/motionly-v2">🎬 Motionly v2</a></h3>
+      <h3 align="center"><a href="https://github.com/abubakr-bd/motionly">🎬 Motionly Website</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Status-In%20Progress-blueviolet?style=flat-square" />
-        <img src="https://img.shields.io/badge/Type-Motion%20Web-38bdf8?style=flat-square" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
       </p>
-      <p>Creative web motion platform focused on dynamic visuals, animations, and modern aesthetic UI.</p>
+      <p>Official agency website for Motionly. Creative motion design platform showcasing high-end animations and interactive web experiences.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/abubakr-bd/portfolio">💼 Personal Portfolio</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
+      <p>Abu Bakr's personal web portfolio showcasing motion design reel, client projects, and creative development work.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/abubakr-bd/varnox-website">🌐 Varnox Client Website</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Client%20Project-Delivered-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+      <p>Modern commercial client website engineered with Next.js, TypeScript, and Supabase integration.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/abubakr-bd/motionly-media">🎨 Motionly Media</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-        <img src="https://img.shields.io/badge/Type-Media%20Hub-f59e0b?style=flat-square" />
+        <img src="https://img.shields.io/badge/Media%20Hub-Active-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Assets-Design-orange?style=flat-square" />
       </p>
-      <p>Visual assets, media elements, animation templates, and design resources.</p>
+      <p>Showcase of creative media assets, visual elements, animation templates, and design resources.</p>
     </td>
   </tr>
 </table>
 </div>
+
+<br/>
+
+> 🔒 **Private Project:** **[Digonto Browser](https://github.com/abubakr-bd/digonto-browser)** — Custom Chromium-based desktop browser for marketers & operations teams built with Electron, React, and TypeScript *(Private Repository)*.
 
 </details>
 
