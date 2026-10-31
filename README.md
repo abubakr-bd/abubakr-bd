@@ -190,6 +190,7 @@ const abuBakr = {
 > 🔒 **Private Projects:**
 > - **[Digonto Browser](https://github.com/abubakr-bd/digonto-browser)** — Custom Chromium-based desktop browser for marketers & operations teams built with Electron, React, and TypeScript.
 > - **[Motionly Academy](https://github.com/abubakr-bd/motionly-academy)** — Practical skill development platform for video editing, marketing & AI workflows built with React, TypeScript, and Tailwind.
+> - **[Motionly Team](https://github.com/abubakr-bd/motionly-team)** — Internal team workspace & finance portal built with React, TypeScript, and Tailwind.
 
 </details>
 
